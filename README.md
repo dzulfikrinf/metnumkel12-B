@@ -1,1 +1,1 @@
-# metnumkel12-B
+Metode Numerik Kelompok 12 Kelas B
